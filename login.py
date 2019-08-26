@@ -12,3 +12,6 @@ def del():
 
 def look():
     pass
+
+def del():
+    pass
