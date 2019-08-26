@@ -5,7 +5,7 @@ def regist():
     pass
 
 def add():
-    pass
+    return
 
 def del():
     pass
