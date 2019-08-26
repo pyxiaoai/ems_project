@@ -6,3 +6,6 @@ def regist():
 
 def add():
     pass
+
+def del():
+    pass
