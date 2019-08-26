@@ -3,3 +3,6 @@ def index():
 
 def regist():
     pass
+
+def add():
+    pass
