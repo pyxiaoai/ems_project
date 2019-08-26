@@ -9,3 +9,6 @@ def add():
 
 def del():
     pass
+
+def look():
+    pass
